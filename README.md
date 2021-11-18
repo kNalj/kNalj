@@ -31,8 +31,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kNalj&bg_color=0d1117&text_color=c9d1d9&count_private=true&layout=compact)](https://github.com/kNalj/)
 
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 
 [so]: https://stackoverflow.com/users/6572309/knalj
