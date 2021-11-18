@@ -32,6 +32,10 @@
 
 
 <!--RECENT_ACTIVITY:start-->
+1. 📔 Created new repository [kNalj/kNalj](https://github.com/kNalj/kNalj)
+2. 📔 Created new repository [kNalj/sipsimple3-examples](https://github.com/kNalj/sipsimple3-examples)
+3. 📔 Created new repository [kNalj/sipsimple3-examples](https://github.com/kNalj/sipsimple3-examples)
+4. 📔 Created new repository [kNalj/Trayport](https://github.com/kNalj/Trayport)
 <!--RECENT_ACTIVITY:end-->
 
 
