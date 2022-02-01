@@ -31,15 +31,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kNalj&bg_color=0d1117&text_color=c9d1d9&count_private=true&layout=compact)](https://github.com/kNalj/)
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#7](https://github.com/ondewo/ondewo-logging-python/pull/7) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
-2. 💪 Opened PR [#6](https://github.com/ondewo/ondewo-logging-python/pull/6) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
-3. 🔱 Forked [kNalj/ondewo-s2t-client-python](https://github.com/kNalj/ondewo-s2t-client-python) from [ondewo/ondewo-s2t-client-python](https://github.com/ondewo/ondewo-s2t-client-python)
-4. 🔱 Forked [kNalj/recent-activity](https://github.com/kNalj/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. 📔 Created new repository [kNalj/AdventOfCode2021](https://github.com/kNalj/AdventOfCode2021)
+1. ✌️ Released [New ondewo logging](https://github.com/ondewo/ondewo-logging-python/releases/tag/3.1.0) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
+2. 🎉 Merged PR [#8](https://github.com/ondewo/ondewo-logging-python/pull/8) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
+3. 💪 Opened PR [#8](https://github.com/ondewo/ondewo-logging-python/pull/8) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
+4. 💪 Opened PR [#7](https://github.com/ondewo/ondewo-logging-python/pull/7) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
+5. 💪 Opened PR [#6](https://github.com/ondewo/ondewo-logging-python/pull/6) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 31st, 2022, 12:17:20 AM
+Last Updated: Tuesday, February 1st, 2022, 12:17:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
