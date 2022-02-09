@@ -31,15 +31,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kNalj&bg_color=0d1117&text_color=c9d1d9&count_private=true&layout=compact)](https://github.com/kNalj/)
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [New ondewo logging](https://github.com/ondewo/ondewo-logging-python/releases/tag/3.1.0) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
-2. 🎉 Merged PR [#8](https://github.com/ondewo/ondewo-logging-python/pull/8) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
-3. 💪 Opened PR [#8](https://github.com/ondewo/ondewo-logging-python/pull/8) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
-4. 💪 Opened PR [#7](https://github.com/ondewo/ondewo-logging-python/pull/7) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
-5. 💪 Opened PR [#6](https://github.com/ondewo/ondewo-logging-python/pull/6) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
+1. ✌️ Released [Release 3.1.0](https://github.com/ondewo/ondewo-logging-python/releases/tag/3.1.0) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
+2. ✌️ Released [New ondewo logging](https://github.com/ondewo/ondewo-logging-python/releases/tag/3.1.0) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
+3. 🎉 Merged PR [#8](https://github.com/ondewo/ondewo-logging-python/pull/8) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
+4. 💪 Opened PR [#8](https://github.com/ondewo/ondewo-logging-python/pull/8) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
+5. 💪 Opened PR [#7](https://github.com/ondewo/ondewo-logging-python/pull/7) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 8th, 2022, 12:22:27 AM
+Last Updated: Wednesday, February 9th, 2022, 12:18:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
