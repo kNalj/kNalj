@@ -31,15 +31,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kNalj&bg_color=0d1117&text_color=c9d1d9&count_private=true&layout=compact)](https://github.com/kNalj/)
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Release 3.1.0](https://github.com/ondewo/ondewo-logging-python/releases/tag/3.1.0) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
-2. ✌️ Released [New ondewo logging](https://github.com/ondewo/ondewo-logging-python/releases/tag/3.1.0) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
-3. 🎉 Merged PR [#8](https://github.com/ondewo/ondewo-logging-python/pull/8) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
-4. 💪 Opened PR [#8](https://github.com/ondewo/ondewo-logging-python/pull/8) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
-5. 💪 Opened PR [#7](https://github.com/ondewo/ondewo-logging-python/pull/7) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
+1. 👍 Approved [#45](https://github.com/ondewo/ondewo-nlu-client-python/pull/45#pullrequestreview-880766581) in [ondewo/ondewo-nlu-client-python](https://github.com/ondewo/ondewo-nlu-client-python)
+2. ✌️ Released [Release 3.1.0](https://github.com/ondewo/ondewo-logging-python/releases/tag/3.1.0) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
+3. ✌️ Released [New ondewo logging](https://github.com/ondewo/ondewo-logging-python/releases/tag/3.1.0) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
+4. 🎉 Merged PR [#8](https://github.com/ondewo/ondewo-logging-python/pull/8) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
+5. 💪 Opened PR [#8](https://github.com/ondewo/ondewo-logging-python/pull/8) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 11th, 2022, 12:18:06 AM
+Last Updated: Saturday, February 12th, 2022, 12:19:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
