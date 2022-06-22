@@ -31,15 +31,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kNalj&bg_color=0d1117&text_color=c9d1d9&count_private=true&layout=compact)](https://github.com/kNalj/)
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#9](https://github.com/ondewo/ondewo-bpi/pull/9#pullrequestreview-969551859) in [ondewo/ondewo-bpi](https://github.com/ondewo/ondewo-bpi)
-2. 👍 Approved [#8](https://github.com/ondewo/ondewo-bpi/pull/8#pullrequestreview-969089708) in [ondewo/ondewo-bpi](https://github.com/ondewo/ondewo-bpi)
-3. 👍 Approved [#45](https://github.com/ondewo/ondewo-nlu-client-python/pull/45#pullrequestreview-880766581) in [ondewo/ondewo-nlu-client-python](https://github.com/ondewo/ondewo-nlu-client-python)
+1. 👍 Approved [#57](https://github.com/ondewo/ondewo-nlu-client-python/pull/57#pullrequestreview-1013353650) in [ondewo/ondewo-nlu-client-python](https://github.com/ondewo/ondewo-nlu-client-python)
+2. 👍 Approved [#9](https://github.com/ondewo/ondewo-bpi/pull/9#pullrequestreview-969551859) in [ondewo/ondewo-bpi](https://github.com/ondewo/ondewo-bpi)
+3. 👍 Approved [#8](https://github.com/ondewo/ondewo-bpi/pull/8#pullrequestreview-969089708) in [ondewo/ondewo-bpi](https://github.com/ondewo/ondewo-bpi)
 4. 🎉 Merged PR [#8](https://github.com/ondewo/ondewo-logging-python/pull/8) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
 5. 💪 Opened PR [#8](https://github.com/ondewo/ondewo-logging-python/pull/8) in [ondewo/ondewo-logging-python](https://github.com/ondewo/ondewo-logging-python)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 21st, 2022, 12:29:51 AM
+Last Updated: Wednesday, June 22nd, 2022, 12:33:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
