@@ -31,7 +31,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kNalj&bg_color=0d1117&text_color=c9d1d9&count_private=true&layout=compact)](https://github.com/kNalj/)
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [kNalj/CodinGameSummer2023](https://github.com/kNalj/CodinGameSummer2023)
+1. 📔 Created new repository [kNalj/AdventOfCode2023](https://github.com/kNalj/AdventOfCode2023)
 2. 📔 Created new repository [kNalj/AdventOfCode2022](https://github.com/kNalj/AdventOfCode2022)
 3. 📔 Created new repository [kNalj/ChessBrawlTinyServer](https://github.com/kNalj/ChessBrawlTinyServer)
 4. 👍 Approved [#57](https://github.com/ondewo/ondewo-nlu-client-python/pull/57#pullrequestreview-1013353650) in [ondewo/ondewo-nlu-client-python](https://github.com/ondewo/ondewo-nlu-client-python)
@@ -39,7 +39,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 2nd, 2023, 12:26:24 AM
+Last Updated: Sunday, December 3rd, 2023, 12:29:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
